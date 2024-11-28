@@ -1,8 +1,3 @@
-"""
-Training script for YOLOv5 by Ultralytics
-
-"""
-
 import argparse
 import logging
 import math
